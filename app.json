@@ -1,0 +1,15 @@
+{
+  "name": "badge-eureka",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
